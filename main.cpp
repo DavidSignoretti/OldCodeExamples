@@ -1,5 +1,5 @@
 /**************************************************************
-*       David F. Signoretti balboa@castle.on.ca
+*       David F. Signoretti daivd@signoretti.ca
 *       C++ ISYS326
 *
 *       Instructor              John Selmys
